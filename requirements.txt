@@ -1,0 +1,6 @@
+pandas==2.3.3  # Versão estável no Python 3.13
+numpy==2.3.4
+scikit-learn==1.5.2
+lightgbm==4.5.0
+matplotlib==3.9.2
+ipykernel==6.29.5

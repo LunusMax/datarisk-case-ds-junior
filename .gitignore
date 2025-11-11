@@ -1,0 +1,39 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Arquivos temporários e cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+*.log
+
+# Dados e saídas
+data/
+*.csv
+*.xlsx
+*.parquet
+*.zip
+*.gz
+
+# Arquivos intermediários ou grandes
+*.sav
+*.pkl
+*.joblib
+*.h5
+
+# Jupyter e IDEs
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# Saída do case
+submissao_case.csv
+*.html
+
+# Configurações de SO
+Thumbs.db
