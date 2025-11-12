@@ -5,3 +5,4 @@ lightgbm==4.5.0
 matplotlib==3.9.2
 ipykernel==6.29.5
 xgboost==2.1.1
+seaborn==0.13.2
